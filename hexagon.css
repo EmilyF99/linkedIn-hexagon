@@ -1,0 +1,34 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-areas: "title-container hexagons";
+}
+
+.title-container {
+    grid-area: title-container;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-areas: "logo title"
+}
+
+.title {
+    grid-area: title;
+    background-color: beige;
+    height: 150px;
+    width: 400px;
+    
+}
+
+.UON-logo {
+    grid-area: logo;
+    background-color: aquamarine;
+    height: 150px;
+    width: 150px;
+    
+}
+
+.hexagons {
+    grid-area: hexagons;
+    background-color: blue;
+}
