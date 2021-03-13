@@ -38,7 +38,7 @@ body {
 .html5:before {
     content: " ";
     width: 0; height: 0;
-    border-bottom: 30px solid #6C6;
+    border-bottom: 30px solid #f47832;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
     position: absolute;
@@ -49,8 +49,18 @@ body {
     margin-top: 30px;
     width: 104px;
     height: 60px;
-    background-color: #6C6;
+    background-color: #f47832;
     position: relative;
+}
+
+.html5-text {
+    width: 104px;
+    height: 40px;
+    background-color: #f47832;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.2em;
 }
 
 .html5:after {
@@ -58,7 +68,7 @@ body {
     width: 0;
     position: absolute;
     bottom: -30px;
-    border-top: 30px solid #6C6;
+    border-top: 30px solid #f47832;;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
 }
@@ -68,7 +78,7 @@ body {
 .css3:before {
     content: " ";
     width: 0; height: 0;
-    border-bottom: 30px solid #6C6;
+    border-bottom: 30px solid #2eaade;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
     position: absolute;
@@ -79,8 +89,18 @@ body {
     margin-top: 30px;
     width: 104px;
     height: 60px;
-    background-color: #6C6;
+    background-color: #2eaade;
     position: relative;
+}
+
+.css3-text {
+    width: 104px;
+    height: 40px;
+    background-color: #2eaade;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.2em;
 }
 
 .css3:after {
@@ -88,7 +108,7 @@ body {
     width: 0;
     position: absolute;
     bottom: -30px;
-    border-top: 30px solid #6C6;
+    border-top: 30px solid #2eaade;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
 }
@@ -98,7 +118,7 @@ body {
 .javaScript:before {
     content: " ";
     width: 0; height: 0;
-    border-bottom: 30px solid #6C6;
+    border-bottom: 30px solid #ffd93a;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
     position: absolute;
@@ -109,25 +129,37 @@ body {
     margin-top: 30px;
     width: 104px;
     height: 60px;
-    background-color: #6C6;
+    background-color: #ffd93a;
     position: relative;
 }
+
+.javaScript-text {
+    width: 104px;
+    height: 40px;
+    background-color: #ffd93a;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.2em;
+}
+
 
 .javaScript:after {
     content: "";
     width: 0;
     position: absolute;
     bottom: -30px;
-    border-top: 30px solid #6C6;
+    border-top: 30px solid #ffd93a;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
+    font-size: 1.2em;
 }
 
 /*java hexagon */
 .java:before {
     content: " ";
     width: 0; height: 0;
-    border-bottom: 30px solid #6C6;
+    border-bottom: 30px solid #ec2025;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
     position: absolute;
@@ -138,8 +170,18 @@ body {
     margin-top: 30px;
     width: 104px;
     height: 60px;
-    background-color: #6C6;
+    background-color: #ec2025;
     position: relative;
+}
+
+.java-text {
+    width: 104px;
+    height: 40px;
+    background-color: #ec2025;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.2em;
 }
 
 .java:after {
@@ -147,7 +189,7 @@ body {
     width: 0;
     position: absolute;
     bottom: -30px;
-    border-top: 30px solid #6C6;
+    border-top: 30px solid #ec2025;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
 }
@@ -156,7 +198,7 @@ body {
 .github:before {
     content: " ";
     width: 0; height: 0;
-    border-bottom: 30px solid #6C6;
+    border-bottom: 30px solid #000;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
     position: absolute;
@@ -167,8 +209,19 @@ body {
     margin-top: 30px;
     width: 104px;
     height: 60px;
-    background-color: #6C6;
+    background-color: #000;
     position: relative;
+}
+
+.github-text {
+    width: 104px;
+    height: 40px;
+    background-color: #000;
+    color:#fff;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.2em;
 }
 
 .github:after {
@@ -176,7 +229,7 @@ body {
     width: 0;
     position: absolute;
     bottom: -30px;
-    border-top: 30px solid #6C6;
+    border-top: 30px solid #000;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
 }
@@ -185,7 +238,7 @@ body {
 .sql:before {
     content: " ";
     width: 0; height: 0;
-    border-bottom: 30px solid #6C6;
+    border-bottom: 30px solid #0079d6;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
     position: absolute;
@@ -196,8 +249,18 @@ body {
     margin-top: 30px;
     width: 104px;
     height: 60px;
-    background-color: #6C6;
+    background-color: #0079d6;
     position: relative;
+}
+
+.sql-text {
+    width: 104px;
+    height: 40px;
+    background-color: #0079d6;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.2em;
 }
 
 .sql:after {
@@ -205,7 +268,7 @@ body {
     width: 0;
     position: absolute;
     bottom: -30px;
-    border-top: 30px solid #6C6;
+    border-top: 30px solid #0079d6;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
 }
@@ -214,7 +277,7 @@ body {
 .office-365:before {
     content: " ";
     width: 0; height: 0;
-    border-bottom: 30px solid #6C6;
+    border-bottom: 30px solid #e43f01;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
     position: absolute;
@@ -225,8 +288,18 @@ body {
     margin-top: 30px;
     width: 104px;
     height: 60px;
-    background-color: #6C6;
+    background-color: #e43f01;
     position: relative;
+}
+
+.office-365-text {
+    width: 104px;
+    height: 40px;
+    background-color: #e43f01;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.2em;
 }
 
 .office-365:after {
@@ -234,7 +307,7 @@ body {
     width: 0;
     position: absolute;
     bottom: -30px;
-    border-top: 30px solid #6C6;
+    border-top: 30px solid #e43f01;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
 }
@@ -243,7 +316,7 @@ body {
 .pc-repair:before {
     content: " ";
     width: 0; height: 0;
-    border-bottom: 30px solid #6C6;
+    border-bottom: 30px solid #cb64eb;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
     position: absolute;
@@ -254,8 +327,18 @@ body {
     margin-top: 30px;
     width: 104px;
     height: 60px;
-    background-color: #6C6;
+    background-color: #cb64eb;
     position: relative;
+}
+
+.pc-repair-text {
+    width: 104px;
+    height: 40px;
+    background-color: #cb64eb;
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.2em;
 }
 
 .pc-repair:after {
@@ -263,7 +346,7 @@ body {
     width: 0;
     position: absolute;
     bottom: -30px;
-    border-top: 30px solid #6C6;
+    border-top: 30px solid #cb64eb;
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
 }
