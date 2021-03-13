@@ -49,6 +49,8 @@ body {
     margin-top: 30px;
     width: 104px;
     height: 60px;
+    left: 52px;
+    top: 75px;
     background-color: #f47832;
     position: relative;
 }
@@ -91,6 +93,7 @@ body {
     height: 60px;
     background-color: #2eaade;
     position: relative;
+    top: 75px;
 }
 
 .css3-text {
@@ -131,6 +134,8 @@ body {
     height: 60px;
     background-color: #ffd93a;
     position: relative;
+    top: -15px;
+    left: 104px;
 }
 
 .javaScript-text {
@@ -172,6 +177,8 @@ body {
     height: 60px;
     background-color: #ec2025;
     position: relative;
+    top: -195px;
+    left: 156px;
 }
 
 .java-text {
@@ -211,6 +218,8 @@ body {
     height: 60px;
     background-color: #000;
     position: relative;
+    top: -195px;
+    left: 208px;
 }
 
 .github-text {
@@ -251,6 +260,8 @@ body {
     height: 60px;
     background-color: #0079d6;
     position: relative;
+    top: -375px;
+    left: 260px;
 }
 
 .sql-text {
@@ -290,6 +301,8 @@ body {
     height: 60px;
     background-color: #e43f01;
     position: relative;
+    top: -375px;
+    left: 312px;
 }
 
 .office-365-text {
@@ -329,6 +342,8 @@ body {
     height: 60px;
     background-color: #cb64eb;
     position: relative;
+    top: -555px;
+    left: 364px;
 }
 
 .pc-repair-text {
