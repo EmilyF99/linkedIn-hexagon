@@ -32,3 +32,207 @@ body {
     grid-area: hexagons;
     background-color: blue;
 }
+/*html 5 hexagon */
+.html5:before {
+    content: " ";
+    width: 0; height: 0;
+    border-bottom: 30px solid #6C6;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+    position: absolute;
+    top: -30px;
+}
+
+.html5 {
+    margin-top: 30px;
+    width: 104px;
+    height: 60px;
+    background-color: #6C6;
+    position: relative;
+}
+
+.html5:after {
+    content: "";
+    width: 0;
+    position: absolute;
+    bottom: -30px;
+    border-top: 30px solid #6C6;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+}
+
+/*CSS 3 hexagon */
+
+.css3:before {
+    content: " ";
+    width: 0; height: 0;
+    border-bottom: 30px solid #6C6;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+    position: absolute;
+    top: -30px;
+}
+
+.css3 {
+    margin-top: 30px;
+    width: 104px;
+    height: 60px;
+    background-color: #6C6;
+    position: relative;
+}
+
+.css3:after {
+    content: "";
+    width: 0;
+    position: absolute;
+    bottom: -30px;
+    border-top: 30px solid #6C6;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+}
+
+/*javaScript Hexagon */
+
+.javaScript:before {
+    content: " ";
+    width: 0; height: 0;
+    border-bottom: 30px solid #6C6;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+    position: absolute;
+    top: -30px;
+}
+
+.javaScript {
+    margin-top: 30px;
+    width: 104px;
+    height: 60px;
+    background-color: #6C6;
+    position: relative;
+}
+
+.javaScript:after {
+    content: "";
+    width: 0;
+    position: absolute;
+    bottom: -30px;
+    border-top: 30px solid #6C6;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+}
+
+/*java hexagon */
+.java:before {
+    content: " ";
+    width: 0; height: 0;
+    border-bottom: 30px solid #6C6;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+    position: absolute;
+    top: -30px;
+}
+
+.java {
+    margin-top: 30px;
+    width: 104px;
+    height: 60px;
+    background-color: #6C6;
+    position: relative;
+}
+
+.java:after {
+    content: "";
+    width: 0;
+    position: absolute;
+    bottom: -30px;
+    border-top: 30px solid #6C6;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+}
+
+/*github hexagon */
+.github:before {
+    content: " ";
+    width: 0; height: 0;
+    border-bottom: 30px solid #6C6;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+    position: absolute;
+    top: -30px;
+}
+
+.github {
+    margin-top: 30px;
+    width: 104px;
+    height: 60px;
+    background-color: #6C6;
+    position: relative;
+}
+
+.github:after {
+    content: "";
+    width: 0;
+    position: absolute;
+    bottom: -30px;
+    border-top: 30px solid #6C6;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+}
+
+/*sql hexagon */
+.sql:before {
+    content: " ";
+    width: 0; height: 0;
+    border-bottom: 30px solid #6C6;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+    position: absolute;
+    top: -30px;
+}
+
+.sql {
+    margin-top: 30px;
+    width: 104px;
+    height: 60px;
+    background-color: #6C6;
+    position: relative;
+}
+
+.sql:after {
+    content: "";
+    width: 0;
+    position: absolute;
+    bottom: -30px;
+    border-top: 30px solid #6C6;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+}
+
+/*office hexagon */
+.office-365:before {
+    content: " ";
+    width: 0; height: 0;
+    border-bottom: 30px solid #6C6;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+    position: absolute;
+    top: -30px;
+}
+
+.office-365 {
+    margin-top: 30px;
+    width: 104px;
+    height: 60px;
+    background-color: #6C6;
+    position: relative;
+}
+
+.office-365:after {
+    content: "";
+    width: 0;
+    position: absolute;
+    bottom: -30px;
+    border-top: 30px solid #6C6;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+}
