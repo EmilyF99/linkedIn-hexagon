@@ -6,31 +6,33 @@ body {
 
 .title-container {
     grid-area: title-container;
-    background-color: aqua;
     display: grid;
+    background-color:#E0E4CE;
     grid-template-columns: 1fr 2fr;
     grid-template-areas: "logo title"
 }
 
 .title {
     grid-area: title;
-    background-color: beige;
+    background-color:#E0E4CE;
     height: 150px;
     width: 400px;
-    
+    margin-top: 100px;
+    padding-left: 25px;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 .UON-logo {
     grid-area: logo;
-    background-color: aquamarine;
     height: 150px;
     width: 150px;
-    
+    margin-top: 100px;
+    padding-left: 25px;
 }
 
 .hexagons {
     grid-area: hexagons;
-    background-color: blue;
+    background-color:#E0E4CE;
 }
 /*html 5 hexagon */
 .html5:before {
